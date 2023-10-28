@@ -1,0 +1,144 @@
+[*] LiveTop 10.54.35.0/24    段存活数量为: 12
+[*] LiveTop 10.229.153.0/24  段存活数量为: 10
+[*] LiveTop 10.230.108.0/24  段存活数量为: 10
+10.230.108.210:80 open
+10.230.108.212:80 open
+10.230.108.213:80 open
+10.230.108.216:80 open
+10.230.108.217:80 open
+10.230.108.221:80 open
+10.229.153.49:22 open
+10.230.108.218:80 open
+10.230.108.217:7001 open
+10.230.108.221:7001 open
+10.229.153.17:22 open
+10.230.108.16:135 open
+10.229.153.46:21 open
+10.230.108.217:135 open
+10.229.153.81:22 open
+10.230.108.210:443 open
+10.230.108.16:139 open
+10.230.108.218:135 open
+10.230.108.202:135 open
+10.229.153.33:22 open
+10.229.153.36:139 open
+10.230.108.221:443 open
+10.230.108.217:139 open
+10.229.153.36:135 open
+10.230.108.218:139 open
+10.230.108.202:139 open
+10.229.153.46:443 open
+10.229.153.46:80 open
+10.230.108.217:1433 open
+10.230.108.221:8080 open
+10.230.108.217:9000 open
+10.230.108.221:9000 open
+10.229.153.46:8080 open
+10.54.35.43:22 open
+10.54.35.36:80 open
+10.54.35.43:443 open
+10.54.35.43:80 open
+10.54.35.31:80 open
+10.54.35.52:443 open
+10.54.35.46:8000 open
+10.54.35.36:8000 open
+10.54.35.43:8000 open
+10.54.35.52:8000 open
+10.54.35.29:80 open
+10.54.35.31:8000 open
+10.54.35.17:8000 open
+10.54.35.29:8000 open
+10.54.35.8:8000 open
+10.54.35.40:80 open
+10.54.35.40:8000 open
+10.54.35.37:80 open
+10.54.35.46:80 open
+10.54.35.46:443 open
+10.54.35.17:80 open
+10.54.35.52:80 open
+10.54.35.8:80 open
+10.54.35.37:8000 open
+10.230.108.221:83 open
+10.54.35.37:880 open
+10.54.35.29:880 open
+10.54.35.8:880 open
+10.230.108.221:6080 open
+10.230.108.221:7002 open
+10.230.108.221:7003 open
+10.229.153.36:7680 open
+10.230.108.221:8001 open
+10.230.108.221:8010 open
+10.230.108.221:8011 open
+10.230.108.221:8028 open
+10.230.108.221:8030 open
+10.230.108.221:8060 open
+10.230.108.221:8082 open
+10.230.108.221:8288 open
+10.54.35.46:8443 open
+10.230.108.217:9001 open
+10.230.108.210:9100 open
+10.230.108.212:9100 open
+10.230.108.213:9100 open
+10.230.108.217:9100 open
+10.230.108.216:9100 open
+10.229.153.56:9100 open
+10.229.153.46:9100 open
+10.230.108.221:10001 open
+[*] WebTitle:http://10.230.108.221     code:301 len:166    title:301 Moved Permanently 跳转url: https://10.230.108.221:443/
+[*] WebTitle:http://10.230.108.217     code:404 len:315    title:Not Found
+[+] NetInfo:
+[*]10.230.108.218
+   [->]WIN-LF7767MA308
+   [->]10.230.108.218
+[+] NetInfo:
+[*]10.230.108.16
+   [->]DESKTOP-N1KE7TV
+   [->]10.230.108.16
+[+] NetInfo:
+[*]10.230.108.217
+   [->]WIN-LF7767MA309
+   [->]10.230.108.217
+[*] WebTitle:https://10.230.108.221    code:301 len:166    title:301 Moved Permanently 跳转url: https://10.230.108.221/portal/
+[+] NetInfo:
+[*]10.230.108.202
+   [->]RLY-PC
+   [->]10.230.108.202
+[*] WebTitle:http://10.230.108.210     code:200 len:1502   title:Internet Services
+[+] NetInfo:
+[*]10.229.153.36
+   [->]DESKTOP-0E8I9UK
+   [->]10.229.153.36
+[*] WebTitle:http://10.54.35.40        code:200 len:481    title:None
+[*] WebTitle:http://10.54.35.36        code:200 len:480    title:None
+[*] WebTitle:http://10.54.35.46        code:200 len:481    title:None
+[*] WebTitle:http://10.54.35.43        code:200 len:481    title:None
+[*] WebTitle:http://10.230.108.221:9000 code:307 len:43     title:None 跳转url: http://10.230.108.221:9000/minio/
+[*] WebTitle:http://10.230.108.221:8001 code:200 len:649    title:Welcome to OpenResty!
+[*] WebTitle:http://10.230.108.221:6080 code:404 len:796    title:HTTP Status 404 – Not Found
+[*] WebTitle:http://10.230.108.221:8060 code:200 len:649    title:Welcome to OpenResty!
+[*] WebTitle:http://10.230.108.221:8082 code:200 len:649    title:Welcome to OpenResty!
+[*] WebTitle:http://10.230.108.221:8011 code:404 len:0      title:None
+[*] WebTitle:http://10.230.108.221:8080 code:404 len:0      title:None
+[*] WebTitle:http://10.230.108.221:8288 code:302 len:0      title:None 跳转url: http://10.230.108.221:8288/index.html
+[*] WebTitle:http://10.230.108.221:8028 code:403 len:437    title:Error 403 Forbidden
+[*] WebTitle:http://10.54.35.17        code:200 len:480    title:None
+[*] WebTitle:http://10.54.35.52        code:200 len:481    title:None
+[*] WebTitle:http://10.54.35.31        code:200 len:480    title:None
+[*] 10.230.108.218       WORKGROUP\WIN-LF7767MA308   Windows Server 2016 Standard 14393
+[*] 10.230.108.217       WORKGROUP\WIN-LF7767MA309   Windows Server 2016 Standard 14393
+[*] 10.229.153.36        WORKGROUP\DESKTOP-0E8I9UK   
+[*] WebTitle:http://10.230.108.213     code:401 len:883    title:FAILED
+[*] WebTitle:http://10.54.35.8         code:200 len:480    title:None
+[*] WebTitle:http://10.230.108.216     code:401 len:883    title:FAILED
+[*] WebTitle:http://10.230.108.212     code:401 len:883    title:FAILED
+[*] WebTitle:http://10.230.108.221:9000/minio/ code:200 len:1979   title:Minio Browser
+[*] WebTitle:http://10.230.108.221:8288/index.html code:200 len:6047   title:Apache ActiveMQ
+[*] WebTitle:http://10.54.35.29        code:200 len:480    title:None
+[*] WebTitle:https://10.54.35.43       code:200 len:481    title:None
+[*] WebTitle:https://10.54.35.52       code:200 len:481    title:None
+[*] WebTitle:http://10.54.35.37        code:200 len:480    title:None
+[+] InfoScan:http://10.230.108.221:8288/index.html [activemq] 
+[*] WebTitle:http://10.230.108.218     code:200 len:703    title:IIS Windows Server
+[*] WebTitle:https://10.54.35.46       code:200 len:481    title:None
+[*] WebTitle:https://10.230.108.221:443/portal/ui/login?service=https://10.230.108.221:443/portal/ code:200 len:13957  title:None
+[*] WebTitle:https://10.230.108.221:443/portal/ui/login?service=https://10.230.108.221:443/portal/ code:200 len:13957  title:None
